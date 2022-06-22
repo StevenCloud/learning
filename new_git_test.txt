@@ -1,1 +1,3 @@
 testing
+
+just adding some more text to practice some more git and set up PAT on git git credential manager on ubuntu laptop
